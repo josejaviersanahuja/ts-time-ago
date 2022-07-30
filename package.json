@@ -1,0 +1,24 @@
+{
+  "name": "ts-time-ago",
+  "version": "1.0.0",
+  "description": "mi primer npm package, un timeago muy simple y sencillo",
+  "main": "index.js",
+  "scripts": {
+    "tsc":"tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josejaviersanahuja/ts-time-ago.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josejaviersanahuja/ts-time-ago/issues"
+  },
+  "homepage": "https://github.com/josejaviersanahuja/ts-time-ago#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
